@@ -1,0 +1,131 @@
+#brand{
+    /*品牌样式更改*/
+    height: 40px;
+    width: 100px;
+}
+
+#navigationBar div ul li a{
+    /*导航栏样式更改*/
+    height: 50px;
+    z-index: 900;
+    font-size: large;
+    margin-top: 10px;
+}
+
+#search{
+    /*搜索栏样式更改*/
+    height: 50px;
+    z-index: 900;
+    font-size: large;
+    margin-top: 20px;
+    /*margin-bottom: 30px;*/
+}
+
+.navbar-nav button{
+    /*导航栏右侧按钮样式更改*/
+    height: 50px;
+    z-index: 900;
+    font-size: large;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+div div div img{
+    /*设置轮播图图片样式*/
+    width: 100%;
+}
+
+.navbar-collapse{
+    /*汉堡标签展开后样式*/
+    background: white;
+}
+
+.company{
+    /*footer标签*/
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 8px;
+    background: rgba(0,0,0,0.27);
+}
+
+.modal-title{
+    /*表单样式*/
+    text-align: center;
+}
+
+.newsTitle{
+    /*设置框体(聚焦热点)头部*/
+    background: dodgerblue;
+    height: 40px;
+    margin-top: 40px;
+    padding-top: 5px;
+    width: 100%;
+    font-size: large;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.newsBody{
+    /*框体文字内容*/
+    height:190px;
+    width: 100%;
+}
+
+.newsBody img{
+    /*框体图片内容*/
+    width:100%;
+    height: 190px;
+    /*margin: 0 0 0 0;*/
+
+}
+
+.news_left{
+    /*新闻左边框体样式*/
+    margin-bottom: 120px;
+}
+
+.list-group button{
+    /*新闻速递按钮及样式*/
+    background: dodgerblue;
+    height: 40px;
+    width: 100%;
+    margin-top: 40px;
+    font-size: large;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.list-group-item-action{
+    /*新闻速递下拉框样式*/
+    font-size: large;
+}
+
+.news{
+    /*每个新闻内容，包括图片和文字*/
+    height: 200px;
+}
+
+.paging{
+    /*分页*/
+    margin-top: 20px;
+}
+
+.footer1{
+    /*footer各类声明和链接样式*/
+    background: #9acfea;
+}
+
+.footer-left div h5{
+    /*设置下边框*/
+    width: 95%;
+    padding-bottom: 8px;
+}
+
+.footer-right div h5{
+    /*设置下边框*/
+    width: 95%;
+    padding-bottom: 8px;
+}
+

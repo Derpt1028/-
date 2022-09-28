@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>未绑定身份证信息</title>
+    <style>
+        p{
+            text-align: center;
+        }
+        span{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<p>
+    您还没有绑定身份证
+</p>
+<p>
+    <span id = "time" >5</span>
+    秒之后，页面自动跳转到绑定信息页面
+</p>
+<script>
+    var second = 5;
+    var time = document.getElementById("time");
+    function fun(){
+        if(second <=0){
+            window.location.href = "MyCenter.jsp";
+        }
+        else{
+            second--;
+            time.innerHTML = second +"";
+        }
+    }
+    setInterval(fun,1000);
+</script>
+</body>
+</html>

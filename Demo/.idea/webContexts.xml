@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/background/src/main/webapp/views/myBackground/mainBackground.html" value="file://$PROJECT_DIR$/background/src/main/webapp/views/myBackground" />
+        <entry key="file://$PROJECT_DIR$/finalProject/src/main/webapp/HighEduInfo.jsp" value="file://$PROJECT_DIR$/finalProject/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/finalProject/src/main/webapp/MyList.jsp" value="file://$PROJECT_DIR$/finalProject/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/finalProject/src/main/webapp/UserPage1.jsp" value="file://$PROJECT_DIR$/finalProject/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/finalProject/src/main/webapp/commons/footer.jsp" value="file://$PROJECT_DIR$/finalProject/src/main/webapp/commons" />
+      </map>
+    </option>
+  </component>
+</project>
