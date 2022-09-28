@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="background:war">
+    <output-path>$PROJECT_DIR$/Demo/background/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>background</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="background.war">
+      <element id="artifact" artifact-name="background:war exploded" />
+    </root>
+  </artifact>
+</component>
